@@ -82,7 +82,7 @@ footer{
     width:100%;
     z-index:999;
     background-color:#F9E7DC;
-    text-decoration:none;
+    text-decoration:underline;
     color: black;
     text-align:center;
     padding-bottom:2%;
